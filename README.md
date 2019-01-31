@@ -9,3 +9,4 @@ Estamos trabalhando na criação das telas.
 
 Estou criando a primeira tela utilizando o Bootstrap 4.0
 
+Estou trabalhando no primeiro formulário e já publicando para texte de usabilidade.
