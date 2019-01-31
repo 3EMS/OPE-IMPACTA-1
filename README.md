@@ -7,3 +7,5 @@ Membros => Elis Pessos - Elaine Pereira - Elton Andrade - Marcelo Silva - Sidnei
 
 Estamos trabalhando na criação das telas.
 
+Estou criando a primeira tela utilizando o Bootstrap 4.0
+
